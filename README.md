@@ -1,1 +1,1 @@
-This is a team project for testing accuracy and effcient of different input methods on andriod.
+This is a team project for testing the accuracy and efficiency of different input methods on Android.
