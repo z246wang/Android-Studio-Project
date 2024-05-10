@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="instruction">Input Testing</string>
+    <string name="count">Count:   </string>
+    <string name="tap">Tap Input</string>
+    <string name="motion">Motion Input</string>
+    <string name="voice">Voice Input</string>
+    <string name="app_name">Book App</string>
+    <string name="exit">Exit</string>
+    <string name="title_activity_voice_recognization">VoiceRecognization</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="start">Start</string>
+    <string name="setupButton">Setup</string>
+</resources>

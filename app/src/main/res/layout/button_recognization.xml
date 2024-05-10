@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ff123456">
+
+    <TextView
+        android:id="@+id/countDownText"
+        android:layout_marginTop="200sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="3"
+        android:textSize="50sp" />
+
+    <Button
+        android:id="@+id/startButton"
+        android:layout_width="150sp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="300sp"
+        android:layout_centerHorizontal="true"
+        android:onClick="startClick"
+        android:text="Start" />
+
+    <Button
+        android:id="@+id/nextButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="400dp"
+        android:layout_centerHorizontal="true"
+        android:onClick="nextClick"
+        android:text="Next"
+        android:visibility="invisible" />
+
+    <Button
+        android:id="@+id/naxtButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="500dp"
+        android:layout_centerHorizontal="true"
+        android:text="Naxt"
+        android:visibility="invisible" />
+</RelativeLayout>
